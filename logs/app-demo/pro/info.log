@@ -1,0 +1,33 @@
+[2021-05-19 10:12:34.913] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([net.cnki.AppDemoService:]) Starting AppDemoService on DESKTOP-1TO8S67 with PID 1168 (D:\github1\appdemo\target\classes started by Administrator in D:\github1\appdemo) 
+[2021-05-19 10:12:34.971] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([net.cnki.AppDemoService:]) No active profile set, falling back to default profiles: default 
+[2021-05-19 10:12:38.918] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.boot.web.embedded.tomcat.TomcatWebServer:]) Tomcat initialized with port(s): 8083 (http) 
+[2021-05-19 10:12:38.978] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.coyote.http11.Http11NioProtocol:]) Initializing ProtocolHandler ["http-nio-8083"] 
+[2021-05-19 10:12:38.990] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.StandardService:]) Starting service [Tomcat] 
+[2021-05-19 10:12:38.991] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.StandardEngine:]) Starting Servlet engine: [Apache Tomcat/9.0.19] 
+[2021-05-19 10:12:39.390] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/appdemo]:]) Initializing Spring embedded WebApplicationContext 
+[2021-05-19 10:12:39.390] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.web.context.ContextLoader:]) Root WebApplicationContext: initialization completed in 4226 ms 
+[2021-05-19 10:12:39.856] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure:]) Init DruidDataSource 
+[2021-05-19 10:12:40.293] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([com.alibaba.druid.pool.DruidDataSource:]) {dataSource-1,123} inited 
+[2021-05-19 10:12:40.301] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.StandardService:]) Stopping service [Tomcat] 
+[2021-05-19 10:12:40.304] [DESKTOP-1TO8S67 app-demo] [INFO ] [Druid-ConnectionPool-Create-1131673199]([com.alibaba.druid.pool.DruidAbstractDataSource:]) {dataSource-1} failContinuous is true 
+[2021-05-19 10:12:40.315] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener:]) 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled. 
+[2021-05-19 10:14:38.542] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([net.cnki.AppDemoService:]) Starting AppDemoService on DESKTOP-1TO8S67 with PID 8048 (D:\github1\appdemo\target\classes started by Administrator in D:\github1\appdemo) 
+[2021-05-19 10:14:38.550] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([net.cnki.AppDemoService:]) No active profile set, falling back to default profiles: default 
+[2021-05-19 10:14:40.204] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.boot.web.embedded.tomcat.TomcatWebServer:]) Tomcat initialized with port(s): 8083 (http) 
+[2021-05-19 10:14:40.220] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.coyote.http11.Http11NioProtocol:]) Initializing ProtocolHandler ["http-nio-8083"] 
+[2021-05-19 10:14:40.230] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.StandardService:]) Starting service [Tomcat] 
+[2021-05-19 10:14:40.230] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.StandardEngine:]) Starting Servlet engine: [Apache Tomcat/9.0.19] 
+[2021-05-19 10:14:40.527] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/appdemo]:]) Initializing Spring embedded WebApplicationContext 
+[2021-05-19 10:14:40.527] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.web.context.ContextLoader:]) Root WebApplicationContext: initialization completed in 1894 ms 
+[2021-05-19 10:14:40.874] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure:]) Init DruidDataSource 
+[2021-05-19 10:14:41.365] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([com.alibaba.druid.pool.DruidDataSource:]) {dataSource-1,123} inited 
+[2021-05-19 10:14:41.852] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:]) Initializing ExecutorService 'applicationTaskExecutor' 
+[2021-05-19 10:14:42.098] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping:]) Adding welcome page template: index 
+[2021-05-19 10:14:42.257] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.apache.coyote.http11.Http11NioProtocol:]) Starting ProtocolHandler ["http-nio-8083"] 
+[2021-05-19 10:14:42.323] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([org.springframework.boot.web.embedded.tomcat.TomcatWebServer:]) Tomcat started on port(s): 8083 (http) with context path '/appdemo' 
+[2021-05-19 10:14:42.326] [DESKTOP-1TO8S67 app-demo] [INFO ] [main]([net.cnki.AppDemoService:]) Started AppDemoService in 5.346 seconds (JVM running for 8.282) 
+[2021-05-19 10:20:03.275] [DESKTOP-1TO8S67 app-demo] [INFO ] [Thread-12]([org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor:]) Shutting down ExecutorService 'applicationTaskExecutor' 
+[2021-05-19 10:20:03.278] [DESKTOP-1TO8S67 app-demo] [INFO ] [Thread-12]([com.alibaba.druid.pool.DruidDataSource:]) {dataSource-1} closing ... 
+[2021-05-19 10:20:03.297] [DESKTOP-1TO8S67 app-demo] [INFO ] [Thread-12]([com.alibaba.druid.pool.DruidDataSource:]) {dataSource-1} closed 
